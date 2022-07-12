@@ -13,6 +13,7 @@ https://nodejs.org/en/
 
 2. Run the project locally using the commands: 
 ```
+cd Ecommerce-template-swiftype
 npm install
 npm start
 ```
