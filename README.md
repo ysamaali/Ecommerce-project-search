@@ -3,6 +3,10 @@
 # Ecommerce template
 This repo contains a minimal e-commerce application in Node. This repo will document the many ways you can deploy this application.
 
+## Prerequisties: 
+This project will require NodeJS and NPM installation on your Mac / Window or Linux: 
+https://nodejs.org/en/
+
 ## Run locally
 
 1. Download the application using Git or in zip.
@@ -35,4 +39,7 @@ npm install -g localtunnel
 2. Setup a tunnel to you local server on port 5100
 ```
 lt --port 5100
+
+# Result
+your url is: https://xyz.loca.lt
 ```
